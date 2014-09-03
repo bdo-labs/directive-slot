@@ -1,0 +1,10 @@
+{
+  "name": "slot",
+  "repo": "bdo-labs/slot",
+  "version": "0.0.01",
+  "description": "Angular directive that animates a value like a slot-machine",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "heavyk/format": "0.1.4"
+  }
+}
