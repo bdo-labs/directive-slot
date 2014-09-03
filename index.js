@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var format = require('heavyk/format');
+var format = require('bdo-labs/format').format;
 
 /**
  * Expose `slot`.
