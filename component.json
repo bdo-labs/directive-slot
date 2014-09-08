@@ -1,11 +1,12 @@
 {
   "name": "slot",
   "repo": "bdo-labs/slot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Angular directive that animates a value like a slot-machine",
   "scripts": ["lib/index.js"],
   "dependencies": {
-    "bdo-labs/format": "0.1.5"
+    "bdo-labs/format": "0.1.5",
+    "component/raf": "1.1.3"
   },
   "development": {
     "bdo-labs/testbed.css": "*"
